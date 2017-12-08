@@ -41,7 +41,7 @@ JAVA 를 기반으로 하고 있으며 프로젝트를 여실 경우 NetBeans �
 ### 참고한 자료들
 - https://github.com/comkeen
 - https://www.google.com/
-- https://github.com/doorBW/uos_software
+- https://github.com/doorBW/AEATsoftware
 
 ### 작성자 정보
 - 도정진 (djjproject)
